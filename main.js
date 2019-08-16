@@ -1,5 +1,4 @@
 
-	```
 	//define a function
 	function sayDontPoke() {
 	    alert('dont poke the fox');
@@ -10,5 +9,4 @@
 	
 	// call when page loads
 	sayDontPoke()
-	```
 	
